@@ -1,4 +1,4 @@
-# basicTech
+# Basic Tech
 * IT 입문자를 위한 필수 도구 모음.
 
 # Agenda
