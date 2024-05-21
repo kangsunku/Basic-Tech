@@ -89,4 +89,4 @@ vi 명령어를 통해 vi를 시작할 경우 실행되는 모드. 방향키를 
     - `:set nonumber`: 행번호를 숨긴다. (간단하게 :set nonu)
     - `:cd`: 현재 디렉토리를 출력
     
-    !vi Editor](./vi_key.png)
+    !vi Editor](image/vi_key.png)
