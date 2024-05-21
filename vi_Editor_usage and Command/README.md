@@ -28,7 +28,7 @@ vi 명령어를 통해 vi를 시작할 경우 실행되는 모드. 방향키를 
 
 ### 4. vi 구성
 
-![https://velog.velcdn.com/images%2Fzeesoo%2Fpost%2F2204c682-ccc7-497a-ab16-ccf7c5830fb4%2Fimage.png](https://velog.velcdn.com/images%2Fzeesoo%2Fpost%2F2204c682-ccc7-497a-ab16-ccf7c5830fb4%2Fimage.png)
+![image/vi_image.png](image/vi_image.png)
 
 ## vi 명령어
 
