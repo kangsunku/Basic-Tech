@@ -1,6 +1,6 @@
 # tmux
 
-### Tmux
+### tmux
 
 ---
 
